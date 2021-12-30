@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"hightlighted",
+			"nonsense",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"random",
+			"nonsense",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"bi-nb",
+			"nonsense",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "nonsenseweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
